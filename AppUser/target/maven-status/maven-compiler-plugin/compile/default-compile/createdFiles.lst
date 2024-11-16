@@ -1,0 +1,13 @@
+com\mycompany\appuser\exceptions\NonexistentEntityException.class
+com\mycompany\appuser\appuser\resources\JakartaEE10Resource.class
+com\mycompany\appuser\AppUser.class
+com\mycompany\appuser\AppUserJpaController.class
+com\mycompany\appuser\AppUserController.class
+com\mycompany\appuser\AppUserController$AppUserControllerConverter.class
+com\mycompany\appuser\exceptions\RollbackFailureException.class
+com\mycompany\appuser\JakartaRestConfiguration.class
+com\mycompany\appuser\exceptions\IllegalOrphanException.class
+com\mycompany\appuser\util\PaginationHelper.class
+com\mycompany\appuser\exceptions\PreexistingEntityException.class
+com\mycompany\appuser\AppUserController$1.class
+com\mycompany\appuser\util\JsfUtil.class
